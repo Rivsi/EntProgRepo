@@ -33,7 +33,7 @@ namespace Rivadenera___ENTPROG___OTIS2
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             //modelBuilder.HasDefaultSchema("eisensy_student");
-            //MNe
+          
           
 
             modelBuilder.Entity<SuppliersInv>(entity =>

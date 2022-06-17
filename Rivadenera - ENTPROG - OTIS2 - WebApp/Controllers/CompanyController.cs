@@ -17,13 +17,13 @@ namespace Rivadenera___ENTPROG___OTIS2___WebApp.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Add(SuppliersInv suppliers)
+        public async Task <IActionResult> Add(SuppliersInv suppliers)
         {
 
             if (ModelState.IsValid)
             {
-                context.Add(suppliers);
-                context.SaveChanges();
+                await context.AddAsync(suppliers);
+                await context.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             else
@@ -40,34 +40,34 @@ namespace Rivadenera___ENTPROG___OTIS2___WebApp.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Delete(int supplierID)
+        public async Task<IActionResult> Delete(int supplierID)
         {
-            var supplier = context.SuppliersInvs.Find(supplierID);
+            var supplier = await context.SuppliersInvs.FindAsync(supplierID);
             context.Set<SuppliersInv>().Remove(supplier);
-            context.SaveChanges();
+            await context.SaveChangesAsync();
             return RedirectToAction("Index");
         }
 
-        public IActionResult Edit(int? id)
+        public async Task<IActionResult> Edit(int? id)
         {
 
            
-                if (id == null) return RedirectToAction("Index");
-            var suppliers = context.SuppliersInvs.Find(id);
+            if (id == null) return RedirectToAction("Index");
+            var suppliers = await context.SuppliersInvs.FindAsync(id);
             return View(suppliers);
         }
 
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(SuppliersInv supplier)
+        public Task<IActionResult> Edit(SuppliersInv supplier)
         {
            
 
             if (ModelState.IsValid)
             {
                 context.Set<SuppliersInv>().Update(supplier);
-                context.SaveChanges();
+                context.SaveChangesAsync();
                 return RedirectToAction("Index");
             }
             else
