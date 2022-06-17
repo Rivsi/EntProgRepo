@@ -22,6 +22,7 @@ namespace Rivadenera___ENTPROG___OTIS2
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            //tet
             if (!optionsBuilder.IsConfigured)
             {
                 //optionsBuilder.UseSqlServer("SERVER=DESKTOP-SSAA20D\\SQLEXPRESS;DATABASE=eisensy_csbentprog;UID=eisensy_student;PWD=Benilde@2020;TRUSTSERVERCERTIFICATE=true");
