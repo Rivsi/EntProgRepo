@@ -22,7 +22,7 @@ namespace Rivadenera___ENTPROG___OTIS2
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //tet
+            
             if (!optionsBuilder.IsConfigured)
             {
                 //optionsBuilder.UseSqlServer("SERVER=DESKTOP-SSAA20D\\SQLEXPRESS;DATABASE=eisensy_csbentprog;UID=eisensy_student;PWD=Benilde@2020;TRUSTSERVERCERTIFICATE=true");
@@ -34,27 +34,7 @@ namespace Rivadenera___ENTPROG___OTIS2
         {
             //modelBuilder.HasDefaultSchema("eisensy_student");
 
-           
-            modelBuilder.Entity<ProductsInv>(entity =>
-            {
-                entity.HasKey(e => e.ProductId);
-
-                entity.ToTable("ProductsINV");
-
-                entity.Property(e => e.ProductId).HasColumnName("ProductID");
-
-                entity.Property(e => e.DateAdded).HasColumnType("datetime");
-
-                entity.Property(e => e.DateModified).HasColumnType("datetime");
-
-                entity.Property(e => e.Description).HasMaxLength(200);
-
-                entity.Property(e => e.Name).HasMaxLength(50);
-
-                entity.Property(e => e.Unit).HasMaxLength(50);
-            });
-
-         
+          //
 
             modelBuilder.Entity<SuppliersInv>(entity =>
             {
