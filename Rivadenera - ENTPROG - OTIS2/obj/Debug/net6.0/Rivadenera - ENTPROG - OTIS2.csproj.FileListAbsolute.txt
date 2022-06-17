@@ -1,0 +1,28 @@
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\bin\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.deps.json
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\bin\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.runtimeconfig.json
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\bin\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.dll
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\bin\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.pdb
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.csproj.AssemblyReference.cache
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.AssemblyInfoInputs.cache
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.AssemblyInfo.cs
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.csproj.CoreCompileInputs.cache
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.dll
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\refint\Rivadenera - ENTPROG - OTIS2.dll
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.pdb
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.genruntimeconfig.cache
+C:\Users\MigMar\Documents\ENTPROG\Submissions Folder\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\ref\Rivadenera - ENTPROG - OTIS2.dll
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\bin\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.deps.json
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\bin\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.runtimeconfig.json
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\bin\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.dll
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\bin\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.pdb
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.csproj.AssemblyReference.cache
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.AssemblyInfoInputs.cache
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.AssemblyInfo.cs
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.csproj.CoreCompileInputs.cache
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.dll
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\refint\Rivadenera - ENTPROG - OTIS2.dll
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.pdb
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\Rivadenera - ENTPROG - OTIS2.genruntimeconfig.cache
+C:\Users\Riv_VivaciousPhantom\Documents\AwaitingSubmissionsThirdSem\ENTPROHG\Rivadenera - ENTPROG - OTIS2\Rivadenera - ENTPROG - OTIS2\obj\Debug\net6.0\ref\Rivadenera - ENTPROG - OTIS2.dll
