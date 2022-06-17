@@ -17,7 +17,6 @@ namespace Rivadenera___ENTPROG___OTIS2
         }
 
        
-        public virtual DbSet<ProductsInv> ProductsInvs { get; set; } = null!;
 
         public virtual DbSet<SuppliersInv> SuppliersInvs { get; set; } = null!;
 
